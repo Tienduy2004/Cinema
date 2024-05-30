@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLRCP", "QLRCP\QLRCP.csproj", "{CECC7A9B-1F08-417E-9711-89EDF85228D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECC7A9B-1F08-417E-9711-89EDF85228D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECC7A9B-1F08-417E-9711-89EDF85228D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECC7A9B-1F08-417E-9711-89EDF85228D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECC7A9B-1F08-417E-9711-89EDF85228D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15363617-FF65-4908-9183-061EEDD39384}
+	EndGlobalSection
+EndGlobal
